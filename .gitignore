@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.iml
+**/target/
+**/application-local.properties
+frontend/node_modules/
+frontend/dist/
+.env
+Thumbs.db
