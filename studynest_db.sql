@@ -101,4 +101,4 @@ INSERT INTO tbl_study_goals (goal_id, user_id, daily_target_minutes, weekly_targ
 
 SELECT * FROM tbl_study_goals;
 
- SHOW TABLES;
+SHOW TABLES;
